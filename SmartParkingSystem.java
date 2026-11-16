@@ -133,11 +133,6 @@ public class SmartParkingSystem {
         }
 
         sc.close();
-        System.out.println("\nThank you for using Smart Parking System!");
+        System.out.println("\nThank you for using this service!");
     }
 }
-
-
-
-
-\\ hi this is Mahin 
